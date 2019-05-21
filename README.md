@@ -6,10 +6,10 @@
 
 ### Grupo
 
-1. Cassio Santos,    RA 538043
-2. Fabio Flauzino,   RA 558249
-3. Otoniel Mattoso,  RA 533084
-4. Ricardo Euclides, RA 557180
+1. Cassio Santos,   
+2. Fabio Flauzino,   
+3. Otoniel Mattoso,  
+4. Ricardo Euclides, 
 
 
 ## Introdução
